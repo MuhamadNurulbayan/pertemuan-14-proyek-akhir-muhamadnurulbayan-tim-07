@@ -178,7 +178,7 @@ Apabila jumlah anggota terbatas, beberapa tanggung jawab dapat dirangkap dengan 
 
 Repository proyek:
 
-URL: https://github.com/firgierviansyah/pertemuan-14-proyek-akhir-FirgiErviansyah-tim-07.git
+URL:(https://github.com/MuhamadNurulbayan/pertemuan-14-proyek-akhir-muhamadnurulbayan-tim-07.git)
 
 Repository digunakan untuk menyimpan dokumen rancangan dan perkembangan proyek.
 
